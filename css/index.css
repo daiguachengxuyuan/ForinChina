@@ -1,0 +1,45 @@
+body{
+ margin:0;
+}
+#header{
+ height:50px;
+ background-color:#363636;
+}
+#headLabel{
+ color:#ffffff;
+ font-size:45px;
+ font-weight:900;
+ margin-left:15%;
+}
+#footer{
+ height:100px;
+ background-color:#363636;
+}
+#content{
+ height:80%;
+}
+#loginBlk{
+ text-align:center;
+ width:40%;
+ height:100%;
+ float:right;
+}
+#indexImg{
+ width:60%;
+ height:100%;
+ float:left;
+}
+.loginp{
+ width:250px;
+ height:30px;
+}
+#login{
+ margin-top:30%;
+}
+.logInput{
+ padding-top:20px;
+}
+img{
+ padding-top:6%;
+ padding-left:12%;
+}
